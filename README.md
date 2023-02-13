@@ -1,4 +1,4 @@
-# TILDA_TesTask_Yandex_Job
+# TILDA_TestTask_Yandex_Job
 Проект на Tilda - тестовое задание Яндекса - "Самокаты - Яндекс Go"
 Адаптированный лэндинг
 
